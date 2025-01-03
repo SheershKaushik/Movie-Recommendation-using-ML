@@ -1,5 +1,5 @@
 from movieRUML.config.configuration import ConfigurationManager
-from movieRUML.conponents.data_ingestion import DataIngestion
+from movieRUML.components.data_ingestion import DataIngestion
 from movieRUML.logging import logger
 
 

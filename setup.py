@@ -9,7 +9,7 @@ __version__ = "0.0.0"
 REPO_NAME = "Movie-Recommendation-using-ML"
 AUTHOR_USER_NAME = "SheershKaushik"
 SRC_REPO = "movieRUML"
-AUTHOR_EMAIL = "sheersh99@gmail.com"
+AUTHOR_EMAIL = "@gmail.com"
 
 
 
